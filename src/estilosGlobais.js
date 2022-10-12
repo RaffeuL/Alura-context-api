@@ -22,7 +22,7 @@ const escuro = {
 }
 
 const claro = {
-  fundo: '#FFFFF',
+  fundo: '#FFFFFF',
   titulo: '#051933',
   texto: '#000000',
   branco: '#000000',
